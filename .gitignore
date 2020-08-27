@@ -1,0 +1,15 @@
+*/node_modules/
+*/.idea/
+.classpath
+.project
+.settings
+.metadata
+.gradle
+/lib/
+*/lib/
+/target
+*/target
+/build
+*/build
+/bin
+*/bin
